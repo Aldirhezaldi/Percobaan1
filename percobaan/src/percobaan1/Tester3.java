@@ -17,5 +17,6 @@ public class Tester3 {
         Employee e[] = {pEmp, iEmp};
         IPayable p[] = {pEmp, eBill};
         Employee e2[] = {pEmp, iEmp};
+        System.out.println("AldiRhezaldi");
     }
 }
